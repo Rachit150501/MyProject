@@ -67,8 +67,6 @@ public class MainScreen {
 		frame.setBounds(100, 100, 912, 579);
 		frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		frame.setVisible(false);
-//		frame.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
-//		frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 
 		frame.getContentPane().setLayout(null);
 		frame.getContentPane().setLayout(null);
